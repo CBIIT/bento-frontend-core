@@ -1,6 +1,6 @@
 {
   "name": "@bento-core/bento-core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@bento-core/widgets": "^1.0.2"
+    "@bento-core/widgets": "^1.0.3"
   },
   "publishConfig": {
     "access": "public"
