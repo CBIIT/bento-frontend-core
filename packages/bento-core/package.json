@@ -11,5 +11,8 @@
   "dependencies": {
     "@bento-core/widgets": "^1.0.2"
   },
-  "gitHead": "5f021c96161e9744617f29d32c24968bf58346b2"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "41f737ee6b30130ddf4fac879dc9d7e4207a221c"
 }
