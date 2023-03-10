@@ -7,3 +7,5 @@ export {
 export {
   WidgetGenerator, DEFAULT_CONFIG_WIDGET,
 } from './WidgetGenerator';
+
+//bump up version
